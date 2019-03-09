@@ -13,7 +13,7 @@
 // If you don't know how to get a user token, please see the guide here:
 // https://github.com/jagrosh/MusicBot/wiki/Getting-a-Bot-Token
 
-token=NTQ1OTcxOTAzNjE4MzUxMTA0.D2TuTQ.zpaXK6VkKzHvsiW8Ie2G2JHLqZ4
+token=NTUzODg3OTI4NjUzNDQ3MTY4.D2Un3Q.c7UTQGpmVEIKT0BVotUeRtk3Ogs
 
 // This sets the owner of the bot
 // This needs to be the owner's ID (a 17-18 digit number)
@@ -44,7 +44,7 @@ prefix= A
 // where X is the title. If you don't include an action, it will use the
 // default of 'Playing'
 //
-game
+game= 'Λlsh.
 
 
 // If you set this, it will modify the default status of bot
